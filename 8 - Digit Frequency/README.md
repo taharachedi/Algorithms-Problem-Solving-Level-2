@@ -47,4 +47,4 @@ Please Enter The Main Number : 123453123
 
 Please Enter The Digit To Check : 3
 
-Digit  3 Frequency is  2 Time(s).
+Digit  3 Frequency is  3 Time(s).
