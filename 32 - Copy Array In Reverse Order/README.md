@@ -36,6 +36,7 @@ The program begins in the `main()` function:
 ## 🛠️ Code Breakdown
 ### 🔹 Main Functions
 - **`int Random_Number(int From, int To)`**: Generates a random integer in the specified range using:
+  
     ```cpp
     return rand() % (To - From + 1) + From;
     ```
