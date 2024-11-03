@@ -48,4 +48,4 @@ This program prompts the user to input a positive integer and determines whether
 
 ```plaintext
 Please Enter A Positive Number : 12321
-Yes, it's A Palindrome Number (t9rah mn limen = mn liser)
+Yes, it's A Palindrome Number 
