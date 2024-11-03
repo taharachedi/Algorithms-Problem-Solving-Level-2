@@ -52,7 +52,7 @@ Please Enter The Main Number : 123453123
 
 Digit 1 Frequency is 2 Time(s).
 Digit 2 Frequency is 2 Time(s).
-Digit 3 Frequency is 2 Time(s).
+Digit 3 Frequency is 3 Time(s).
 Digit 4 Frequency is 1 Time(s).
 Digit 5 Frequency is 1 Time(s).
 
