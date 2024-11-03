@@ -45,7 +45,7 @@ This program prompts the user to enter a positive integer and then prints a patt
 ```plaintext
 Please Enter A Positive Number Mr.Taha : 5
 
-EEEE
+EEEEE
 DDDD
 CCC
 BB
